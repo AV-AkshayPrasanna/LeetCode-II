@@ -75,7 +75,7 @@ The goal isn't just to collect solutions, but to **understand the underlying pat
 
 Synced automatically by SolveBase.
 
-**Total solved: 3**
+**Total solved: 4**
 
 ## Codeforces
 
@@ -92,10 +92,11 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 3**
+**Solved: 4**
 
 | Topic | Solved |
 | --- | --- |
+| [binary-search](./leetcode/binary-search) | 1 |
 | [hash-table](./leetcode/hash-table) | 1 |
 | [sliding-window](./leetcode/sliding-window) | 1 |
 | [string](./leetcode/string) | 1 |
